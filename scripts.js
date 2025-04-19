@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
-    console.log("Welcome to Elite Fashion Store!");
+    console.log("Welcome to the Fashion Store!");
 });
 
 function shopNow() {
-    alert("Redirecting to the shop section!");
+    alert("Redirecting to our amazing products!");
     window.location.href = "index.html"; 
 }
